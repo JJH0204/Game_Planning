@@ -1,0 +1,2 @@
+HP,MP,ATK,ATK_UP,ATS,ATS_UP,DEF,DEF_UP,SPD,SPD_UP,Stun,Jump,Range,move_range,Delay,Cooldown,지속시간,Ex_HP,Critical,Critical_percent,Item_Ani,Skill_on,Item_cg,#아이템 설명,,,
+ID,Class,Type,rootBox,Icon,Modeling,Name,Discription,HP,MP,pAtk,mAtk,pDef,mDef,STR,DEX,INT,Vital,Count,reqLv,reqStat,reqStat2,coolDown,limit,Overlap,Buy,Sell
